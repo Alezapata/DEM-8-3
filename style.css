@@ -188,3 +188,9 @@ body{
     display: block;
   }
 }
+.imagent{
+
+height: 300px;
+width:100px ;
+background-image: url(xd.hp.png);
+}
