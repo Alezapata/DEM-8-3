@@ -194,3 +194,12 @@ height: 300px;
 width:100px ;
 background-image: url(xd.hp.png);
 }
+
+
+.mapa.5{
+  height: 193px;
+  width: 300px;
+  background-image: url("mapa.5.jpg");
+  background-repeat: no-repeat;
+  float: right;
+}
