@@ -117,13 +117,12 @@ flex-direction: center;
 }
 .Img9{
 
-
-
-    Height: 750px;
-    width: 1050px;
-    background-image: url(WhatsApp\ Image\ 2024-11-25\ at\ 10.06.25\ PM\ -\ Acceso\ directo.lnk);
+height: 600px;
+width: 1050px;
+background-image: url(CK.jpeg);
     display: flex;
-flex-direction: center;
+    flex-direction: center;
+float: center;
 
 }
 .ImG00{
